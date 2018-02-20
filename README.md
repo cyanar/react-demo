@@ -1,3 +1,3 @@
 # react-demo
 
-redux 实践
+react-redux 实践
